@@ -2,6 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba62d77-fe83-4311-84e6-c37033f308e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/ArrayChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/BurgerChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/out/production/BurgerChallenge/META-INF/BurgerChallenge.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/academy/learnprogramming/Deluxe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/academy/learnprogramming/Hamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/academy/learnprogramming/Healthy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BurgerChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/description.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/encodings.xml" afterDir="false" />
@@ -10,7 +32,17 @@
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/EncapsulationChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/academy/learnprogramming/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/PolymorphismChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismChallenge/src/academy/learnprogramming/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Verna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Verna.java" afterDir="false" />
