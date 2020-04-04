@@ -26,6 +26,7 @@ public class Verna extends Car{
 
     @Override
     public void stop() {
+        System.out.println("Verna.stop() is called.");
         super.stop();
         changeGear(1);
     }

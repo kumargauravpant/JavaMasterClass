@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ba62d77-fe83-4311-84e6-c37033f308e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Verna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/EncapsulationChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EncapsulationChallenge/src/academy/learnprogramming/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Verna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Verna.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,22 +79,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="256" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585730353380" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585734581912">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1585763000872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585734581912" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585734581911">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585763000872" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1585763000872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585734581911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585734581911">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585763000872" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1585763000872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585734581911" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585734581911">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585763000872" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1585763000872">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585734581911" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585763000872" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585728039084">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
